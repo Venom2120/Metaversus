@@ -26,7 +26,7 @@ const About = () => (
        <span className=" text-white font-extrabold "> explore </span> the madness of the metaverse by scrolling down
       </motion.p>
       <motion.img
-      src="/arrow-down.svg"
+      src="./arrow-down.svg"
       alt="arrow down"
       className=" w-[18px] h-[28px] object-contain mt-[28px] "
       variants={fadeIn('up', 'tween', 0.3, 1)}
